@@ -1,2 +1,2 @@
-# wdi-fundamentals-memorygame/memory_game.
+# wdi-fundamentals-memorygame
 
